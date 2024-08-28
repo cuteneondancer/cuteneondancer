@@ -1,8 +1,8 @@
 # Social links
-- (Twitter)[https://x.com/CuteNeonDancer]
-- (Guilded)[https://www.guilded.gg/u/cuteneondancer]
-- (Linktree)[https://linktr.ee/cuteneondancer]
-- (Roblox)[https://www.roblox.com/users/7205679765/profile]
+- [Twitter](https://x.com/CuteNeonDancer)
+- [Guilded](https://www.guilded.gg/u/cuteneondancer)
+- [Linktree](https://linktr.ee/cuteneondancer)
+- [Roblox](https://www.roblox.com/users/7205679765/profile)
 
 <!--
 **cuteneondancer/cuteneondancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
